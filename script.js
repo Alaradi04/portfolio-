@@ -7,7 +7,12 @@ const screenshotSets = {
     { src: "pic/infaq/3.png", alt: "Add transaction form in expense mode", label: "INFAQ · Add an expense" },
     { src: "pic/infaq/4.png", alt: "Add transaction form in income mode", label: "INFAQ · Add income" },
     { src: "pic/infaq/5.png", alt: "Spending insights screen with category chart", label: "INFAQ · Spending insights" },
-    { src: "pic/infaq/6.png", alt: "Subscription management screen", label: "INFAQ · Subscriptions" }
+    { src: "pic/infaq/6.png", alt: "Subscription management screen", label: "INFAQ · Subscriptions" },
+    { src: "pic/infaq/7.png", alt: "Additional INFAQ finance screen", label: "INFAQ · More details" },
+    { src: "pic/infaq/8.png", alt: "Additional INFAQ finance screen", label: "INFAQ · More details" },
+    { src: "pic/infaq/9.png", alt: "Additional INFAQ finance screen", label: "INFAQ · More details" },
+    { src: "pic/infaq/10.png", alt: "Additional INFAQ finance screen", label: "INFAQ · More details" },
+    { src: "pic/infaq/11.png", alt: "Additional INFAQ finance screen", label: "INFAQ · More details" }
   ],
   readers: [
     { src: "pic/readers/1.png", alt: "Readers discovery screen with catalog and Google Books tabs", label: "Readers · Discover" },
